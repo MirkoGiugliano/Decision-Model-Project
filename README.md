@@ -1,2 +1,2 @@
 # Decision-Model-Project
-progetto universitario
+Progetto universitario in Decision Model svolto in Python
